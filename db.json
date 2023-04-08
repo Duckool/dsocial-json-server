@@ -1,0 +1,173 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userId": 2,
+      "time": "2022-02-06T07:27:16.151Z",
+      "content": "Hello, everybody."
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "time": "2023-01-06T07:27:16.151Z",
+      "content": "Hello, I'm Duckode."
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "time": "2022-03-06T07:27:16.151Z",
+      "content": "Hello, everyone."
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "time": "Dec 22 2023 20:23",
+      "content": "Hello, everyone."
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "time": "Dec 22 2024 20:23",
+      "content": "Hey, I'm here."
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "time": "Dec 22 2024 20:23",
+      "content": "Hello, first time be here."
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "content": "Hello eve!!!!",
+      "time": "2023-04-06T08:27:21.561Z"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "content": "Come on, I'm here!!!!",
+      "time": "2023-04-06T08:27:38.402Z"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "content": "Come on, I'm here!!!!",
+      "time": "2023-04-06T08:28:40.186Z"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "content": "Hi, how you guys are today?",
+      "time": "2023-04-06T09:46:00.275Z"
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "content": "Hi everyone.",
+      "time": "2023-04-06T12:02:18.141Z"
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "content": "Hi everyone.",
+      "time": "2023-04-06T12:03:25.562Z"
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "content": "Good evening, everybody ^^\n",
+      "time": "2023-04-06T12:03:40.986Z"
+    },
+    {
+      "id": 14,
+      "userId": 2,
+      "content": "Just completed basic UI,\nCongratulation to @ducdmd152",
+      "time": "2023-04-06T13:48:12.592Z"
+    },
+    {
+      "id": 15,
+      "userId": 6,
+      "content": "Hey guys,\nGood morning.",
+      "time": "2023-04-07T02:11:49.514Z"
+    },
+    {
+      "id": 16,
+      "userId": 12,
+      "content": "Hi everyone!\nI'm here for the first time.",
+      "time": "2023-04-07T07:01:29.380Z"
+    },
+    {
+      "id": 17,
+      "userId": 11,
+      "content": "Hi, everyone!",
+      "time": "2023-04-08T04:05:45.929Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "ducdmd152",
+      "avt": "https://avatars.githubusercontent.com/u/90080923?v=4"
+    },
+    {
+      "id": 2,
+      "username": "leviswite",
+      "avt": "https://bit.ly/ryan-florence"
+    },
+    {
+      "id": 3,
+      "username": "colymary",
+      "avt": "https://images.unsplash.com/photo-1643732994192-03856731da2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjN8fGF2YXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 4,
+      "username": "danlevw",
+      "avt": "https://images.unsplash.com/photo-1632922267756-9b71242b1592?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODN8fGF2YXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 5,
+      "username": "navywit",
+      "avt": "https://images.unsplash.com/photo-1645378999013-95abebf5f3c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEwfHxhdmF0YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 6,
+      "username": "ddodywq",
+      "avt": "https://images.unsplash.com/photo-1654110455429-cf322b40a906?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTIwfHxhdmF0YXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 7,
+      "username": "sorakity",
+      "avt": "https://images.unsplash.com/photo-1569078449082-d264d9e239c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGFzaWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 8,
+      "username": "silnllemy",
+      "avt": "https://images.unsplash.com/photo-1621390842036-f01b53d9cbfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGFzaWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "id": 9,
+      "username": "johndose",
+      "avt": "https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGFzaWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "email": "andany@dsocial.com",
+      "password": "$2a$10$iC2fPGBqSrv1mYFPoQYcK.L945ZOuFaT0EGM.WT3oyVXOC62/wVU6",
+      "username": "andany",
+      "avt": "https://i.pinimg.com/originals/c8/ea/ad/c8eaad52ac8b443748e153da94e677de.jpg",
+      "id": 10
+    },
+    {
+      "email": "weqyiu@dsocial.com",
+      "password": "$2a$10$EzRju.O1nMMX1ZREIOPM4etSRzSErEphq0HhRKlbPZf0M2aeiuVlC",
+      "username": "weqyiu",
+      "avt": "https://i.pinimg.com/originals/af/d1/a3/afd1a3201f501c4edd8d1543051e5063.jpg",
+      "id": 11
+    },
+    {
+      "email": "guest@dsocial.com",
+      "password": "$2a$10$iC2fPGBqSrv1mYFPoQYcK.L945ZOuFaT0EGM.WT3oyVXOC62/wVU6",
+      "username": "guest",
+      "id": 12
+    }
+  ]
+}
