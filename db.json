@@ -3,26 +3,26 @@
     {
       "id": 1,
       "userId": 1,
-      "time": "2022-03-06T07:27:16.151Z",
+      "time": "2022-04-01T07:27:16.151Z",
       "content": "Hello, everybody."
     },
     {
       "id": 2,
       "userId": 7,
-      "time": "2023-03-06T07:27:16.151Z",
+      "time": "2023-04-01T07:27:16.151Z",
       "content": "Hi everyone."
     },
     {
       "id": 3,
       "userId": 4,
-      "time": "2023-03-06T07:27:16.151Z",
+      "time": "2023-04-01T07:27:16.151Z",
       "content": "Hello, everyone."
     },
     {
       "id": 5,
       "userId": 1,
-      "time": "2023-03-06T08:31:16.151Z",
-      "content": "Hi guys,\nIf this is your first time here and haven't been able to register for an account for some reason.\nYou can login with 'guest' for username and '123456' for password.\nOnce logged in you can try out some of the little features in our community,\nposting for example.\nHave a good time."
+      "time": "2023-04-02T08:31:16.151Z",
+      "content": "Hii, I'm here."
     },
     {
       "id": 6,
@@ -43,22 +43,28 @@
       "time": "2023-04-06T08:27:38.402Z"
     },
     {
-      "id": 13,
+      "id": 9,
       "userId": 1,
       "content": "Good evening, everybody ^^\n",
       "time": "2023-04-06T12:03:40.986Z"
     },
     {
-      "id": 14,
+      "id": 10,
       "userId": 2,
       "content": "Just completed basic UI,\nCongratulation to @ducdmd152",
       "time": "2023-04-06T13:48:12.592Z"
     },
     {
-      "id": 15,
+      "id": 11,
       "userId": 6,
       "content": "Hey guys,\nGood morning.",
       "time": "2023-04-07T02:11:49.514Z"
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "content": "Hey guys,\nBe free to register or login with guest & 123456 for username & password.\nHave a good time!",
+      "time": "2023-04-07T04:22:49.514Z"
     },
     {
       "id": 16,
