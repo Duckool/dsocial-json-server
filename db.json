@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "userId": 2,
+      "userId": 1,
       "time": "2022-02-06T07:27:16.151Z",
       "content": "Hello, everybody."
     },
@@ -38,8 +38,8 @@
     },
     {
       "id": 8,
-      "userId": 7,
-      "content": "Come on, I'm here!!!!",
+      "userId": 4,
+      "content": "Yoyoo, I'm here!!!!",
       "time": "2023-04-06T08:27:38.402Z"
     },
     {
@@ -70,6 +70,12 @@
       "id": 17,
       "userId": 11,
       "content": "Hi, everyone!",
+      "time": "2023-04-08T04:05:45.929Z"
+    },
+    {
+      "id": 18,
+      "userId": 11,
+      "content": "Hi guys,\nIf this is your first time here and haven't been able to register for an account for some reason.\nYou can login with 'guest' for username and '123456' for password.\nOnce logged in you can try out some of the little features in our community, posting for example.\nHave a good time.",
       "time": "2023-04-08T04:05:45.929Z"
     }
   ],
