@@ -22,7 +22,7 @@
       "id": 5,
       "userId": 1,
       "time": "Dec 22 2024 20:23",
-      "content": "Hey, I'm here."
+      "content": "Hi guys,\nIf this is your first time here and haven't been able to register for an account for some reason.\nYou can login with 'guest' for username and '123456' for password.\nOnce logged in you can try out some of the little features in our community, posting for example.\nHave a good time."
     },
     {
       "id": 6,
@@ -72,12 +72,6 @@
       "content": "Hi, everyone!",
       "time": "2023-04-08T04:05:45.929Z"
     },
-    {
-      "id": 18,
-      "userId": 11,
-      "content": "Hi guys,\nIf this is your first time here and haven't been able to register for an account for some reason.\nYou can login with 'guest' for username and '123456' for password.\nOnce logged in you can try out some of the little features in our community, posting for example.\nHave a good time.",
-      "time": "2023-04-08T04:05:45.929Z"
-    }
   ],
   "users": [
     {
