@@ -8,20 +8,14 @@
     },
     {
       "id": 2,
-      "userId": 1,
+      "userId": 7,
       "time": "2023-01-06T07:27:16.151Z",
-      "content": "Hello, I'm Duckode."
+      "content": "Hi everyone."
     },
     {
       "id": 3,
-      "userId": 2,
+      "userId": 4,
       "time": "2022-03-06T07:27:16.151Z",
-      "content": "Hello, everyone."
-    },
-    {
-      "id": 4,
-      "userId": 1,
-      "time": "Dec 22 2023 20:23",
       "content": "Hello, everyone."
     },
     {
@@ -34,43 +28,19 @@
       "id": 6,
       "userId": 2,
       "time": "Dec 22 2024 20:23",
-      "content": "Hello, first time be here."
+      "content": "Hello, the first time be here."
     },
     {
       "id": 7,
-      "userId": 1,
+      "userId": 9,
       "content": "Hello eve!!!!",
       "time": "2023-04-06T08:27:21.561Z"
     },
     {
       "id": 8,
-      "userId": 1,
+      "userId": 7,
       "content": "Come on, I'm here!!!!",
       "time": "2023-04-06T08:27:38.402Z"
-    },
-    {
-      "id": 9,
-      "userId": 1,
-      "content": "Come on, I'm here!!!!",
-      "time": "2023-04-06T08:28:40.186Z"
-    },
-    {
-      "id": 10,
-      "userId": 1,
-      "content": "Hi, how you guys are today?",
-      "time": "2023-04-06T09:46:00.275Z"
-    },
-    {
-      "id": 11,
-      "userId": 1,
-      "content": "Hi everyone.",
-      "time": "2023-04-06T12:02:18.141Z"
-    },
-    {
-      "id": 12,
-      "userId": 1,
-      "content": "Hi everyone.",
-      "time": "2023-04-06T12:03:25.562Z"
     },
     {
       "id": 13,
@@ -148,13 +118,6 @@
       "id": 9,
       "username": "johndose",
       "avt": "https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGFzaWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
-    },
-    {
-      "email": "andany@dsocial.com",
-      "password": "$2a$10$iC2fPGBqSrv1mYFPoQYcK.L945ZOuFaT0EGM.WT3oyVXOC62/wVU6",
-      "username": "andany",
-      "avt": "https://i.pinimg.com/originals/c8/ea/ad/c8eaad52ac8b443748e153da94e677de.jpg",
-      "id": 10
     },
     {
       "email": "weqyiu@dsocial.com",
